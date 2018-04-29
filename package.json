@@ -1,0 +1,16 @@
+{
+  "name": "v-thumbbot",
+  "version": "0.0.1",
+  "description": "a thumbbot demo for make video thumb",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "node bot.js"
+  },
+  "author": "+v",
+  "license": "MIT",
+  "devDependencies": {
+    "node-cmd": "^3.0.0",
+    "path": "^0.12.7",
+    "prompt": "^1.0.0"
+  }
+}
